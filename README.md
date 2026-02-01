@@ -9,7 +9,8 @@
 - ❌ No maintenance, no updates, no nonsense
 
 If you run the installer again while it’s already installed, you’ll see:  
-> “WifiAutoInstall is already setup! Overwrite it?”  
+> “WifiAutoInstall is already setup! Overwrite it?” 
+
 Choose **Yes** if you want to reinstall.
 Choose **No** if you dont want to reinstall.
 
