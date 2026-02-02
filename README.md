@@ -22,6 +22,7 @@ If you run the installer again while it’s already installed, you’ll see:
 ![Overwrite?](./images/overwrite.PNG)
 
 Choose **Yes** if you want to reinstall.
+
 Choose **No** if you don't want to reinstall.
 
 [Download EXE](./rtl8212cu.exe)
