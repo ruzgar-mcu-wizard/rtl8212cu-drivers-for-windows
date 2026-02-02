@@ -2,12 +2,12 @@
 
 ## Realtek RTL8212CU 802.11ac USB Wi-Fi Driver for Windows
 
-- ⚡ Single EXE installer (9.88 MB), installs 82.06 MB
-- 💻 Supports Windows 7, 8, 8.1, 10, and 11 (x86 & x64)
-- 📶 Works with RTL8212CU 802.11ac USB Wi-Fi adapters
-- ✅ Just works — plug in, run installer, get Wi-Fi
-- ❌ No maintenance, no updates, no nonsense
-- 📱 Known Working Devices: RTL8812CU (VID: 0BDA PID: C812)
+- ⚡ **Single EXE installer** (9.88 MB), installs 82.06 MB
+- 💻 **Supports** Windows 7, 8, 8.1, 10, and 11 (x86 & x64)
+- 📶 **Works with** RTL8212CU 802.11ac USB Wi-Fi adapters
+- ✅ **Just works** — plug in, run installer, get Wi-Fi
+- ❌ **No maintenance, no updates, no nonsense**
+- 📱 **Known Working Devices: RTL8812CU (VID: 0BDA PID: C812)**
 
 ## Installation
 
