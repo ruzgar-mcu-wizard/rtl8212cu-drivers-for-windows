@@ -1,0 +1,49 @@
+[2026/02/03] (02:25:14.344) [WifiAutoInstallSrv]-> _tmain() Option = i
+[2026/02/03] (02:25:14.344) [WifiAutoInstallSrv]-> _tmain() SubOption = [2026/02/03] (02:25:14.344) [WifiAutoInstallSrv]-> _tmain() Option = i SubOption [2026/02/03] (02:25:14.345) [WifiAutoInstallSrv]-> SvcInstall Service Create OK
+[2026/02/03] (02:25:14.345) [WifiAutoInstallSrv]-> startService
+[2026/02/03] (02:25:14.353) [WifiAutoInstallSrv]-> _tmain() Option = [2026/02/03] (02:25:14.354) [WifiAutoInstallSrv]-> 
+WifiAutoInstallSrv SvcMain()
+[2026/02/03] (02:25:14.354) [WifiAutoInstallSrv]-> Service start pending...
+[2026/02/03] (02:25:14.354) [WifiAutoInstallSrv]-> SvcInit stop CDROM 
+[2026/02/03] (02:25:14.361) [WifiAutoInstallSrv]-> Service started successfully.
+[2026/02/03] (02:25:14.361) [WifiAutoInstallSrv]-> MediaEnumandDetection: Enter 
+[2026/02/03] (02:25:14.361) [WifiAutoInstallSrv]-> SetupDiEnumDeviceInterfaces error: 259
+[2026/02/03] (02:25:14.363) [WifiAutoInstallSrv]-> MediaEnumandDetection: Enter 
+[2026/02/03] (02:25:14.363) [WifiAutoInstallSrv]-> device path: \\?\scsi#disk&ven_sandisk&prod_ssd_plus_240gb#4&e91be7&0&070000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} 
+[2026/02/03] (02:25:14.363) [WifiAutoInstallSrv]-> device path: \\?\scsi#disk&ven_nvme&prod_wd_green_sn350_5#5&eedfa86&0&000000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} 
+[2026/02/03] (02:25:14.364) [WifiAutoInstallSrv]-> SetupDiEnumDeviceInterfaces error: 259
+[2026/02/03] (02:25:14.395) [WifiAutoInstallDriver]-> _tmain() Option = i
+[2026/02/03] (02:25:14.396) [WifiAutoInstallDriver]-> _tmain() SubOption = [2026/02/03] (02:25:14.396) [WifiAutoInstallDriver]-> _tmain() Option = i SubOption [2026/02/03] (02:25:14.457) [WifiAutoInstallDriver]-> IsWow64 (1) 
+[2026/02/03] (02:25:14.458) [WifiAutoInstallDriver]-> OS SysVer=11,bIsWow64=1!
+[2026/02/03] (02:25:14.458) [WifiAutoInstallDriver]-> DriverPackageInfPath is Driver\Win10X64\netrtwlanu.inf.
+[2026/02/03] (02:25:14.458) [WifiAutoInstallDriver]-> TEST: installing driver package.
+[2026/02/03] (02:25:14.458) [WifiAutoInstallDriver]-> Flag = 0x4.
+[2026/02/03] (02:25:14.458) [WifiAutoInstallDriver]-> LOG Event: 1, ENTER:  DriverPackageInstallW
+[2026/02/03] (02:25:15.287) [WifiAutoInstallDriver]-> LOG Event: 1, Installing INF file 'C:\Program Files\Realtek\WifiAutoInstall\Driver\Win10X64\netrtwlanu.inf' (Plug and Play).
+[2026/02/03] (02:25:15.300) [WifiAutoInstallDriver]-> LOG Event: 1, Looking for Model Section [Realtek.NTamd64.10.0]...
+[2026/02/03] (02:25:15.302) [WifiAutoInstallDriver]-> LOG Event: 1, Installing devices with Id "USB\VID_0BDA&PID_C812&REV_0000" using INF "C:\WINDOWS\System32\DriverStore\FileRepository\netrtwlanu.inf_amd64_87c49b55d8d97bd9\netrtwlanu.inf".
+[2026/02/03] (02:25:15.311) [WifiAutoInstallDriver]-> LOG Event: 1, Will force install because driver is not better and force flag is set.
+[2026/02/03] (02:25:15.311) [WifiAutoInstallDriver]-> LOG Event: 1, ENTER UpdateDriverForPlugAndPlayDevices...
+[2026/02/03] (02:25:16.719) [WifiAutoInstallSrv]-> DBT_DEVICEREMOVECOMPLETE dbcc_name=\\?\{5d624f94-8850-40c3-a3fa-a4fd2080baf3}#vwifimp_wfd#6&dec4d11&0&11#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{30CF0B90-5C3F-450C-9B1B-6DE7C1E967D1}
+[2026/02/03] (02:25:16.719) [WifiAutoInstallSrv]-> DBT_DEVICEREMOVECOMPLETE dbcc_name=\\?\{5d624f94-8850-40c3-a3fa-a4fd2080baf3}#vwifimp_wfd#6&dec4d11&0&11#{cac88484-7515-4c03-82e6-71a87abac361}
+[2026/02/03] (02:25:16.719) [WifiAutoInstallSrv]-> DBT_DEVICEREMOVECOMPLETE dbcc_name=\\?\{5d624f94-8850-40c3-a3fa-a4fd2080baf3}#vwifimp_wfd#6&dec4d11&0&12#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{82D7EB16-EFC9-4BE0-B382-2AA6E8857BA1}
+[2026/02/03] (02:25:16.719) [WifiAutoInstallSrv]-> DBT_DEVICEREMOVECOMPLETE dbcc_name=\\?\{5d624f94-8850-40c3-a3fa-a4fd2080baf3}#vwifimp_wfd#6&dec4d11&0&12#{cac88484-7515-4c03-82e6-71a87abac361}
+[2026/02/03] (02:25:16.719) [WifiAutoInstallSrv]-> DBT_DEVICEREMOVECOMPLETE dbcc_name=\\?\USB#VID_0BDA&PID_C812#123456#{435b6226-1dcc-43b3-887e-217dbaa27ba3}
+[2026/02/03] (02:25:16.719) [WifiAutoInstallSrv]-> DBT_DEVICEREMOVECOMPLETE dbcc_name=\\?\USB#VID_0BDA&PID_C812#123456#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{3DAFCFDC-6383-450D-9D4E-BC1C9DB8727C}
+[2026/02/03] (02:25:16.719) [WifiAutoInstallSrv]-> DBT_DEVICEREMOVECOMPLETE dbcc_name=\\?\USB#VID_0BDA&PID_C812#123456#{cac88484-7515-4c03-82e6-71a87abac361}
+[2026/02/03] (02:25:16.719) [WifiAutoInstallSrv]-> DBT_DEVICEREMOVECOMPLETE dbcc_name=\\?\USB#VID_0BDA&PID_C812#123456#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[2026/02/03] (02:25:16.719) [WifiAutoInstallSrv]-> DBT_DEVICEREMOVECOMPLETE dbcc_name=\\?\SWD#RADIO#{3DAFCFDC-6383-450D-9D4E-BC1C9DB8727C}#{a8804298-2d5f-42e3-9531-9c8c39eb29ce}
+[2026/02/03] (02:25:18.184) [WifiAutoInstallSrv]-> DBT_DEVICEARRIVAL  dbcc_name=\\?\USB#VID_0BDA&PID_C812#123456#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[2026/02/03] (02:25:18.185) [WifiAutoInstallSrv]-> DBT_DEVICEARRIVAL  dbcc_name=\\?\USB#VID_0BDA&PID_C812#123456#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{3DAFCFDC-6383-450D-9D4E-BC1C9DB8727C}
+[2026/02/03] (02:25:18.186) [WifiAutoInstallSrv]-> DBT_DEVICEARRIVAL  dbcc_name=\\?\USB#VID_0BDA&PID_C812#123456#{cac88484-7515-4c03-82e6-71a87abac361}
+[2026/02/03] (02:25:18.187) [WifiAutoInstallSrv]-> DBT_DEVICEARRIVAL  dbcc_name=\\?\USB#VID_0BDA&PID_C812#123456#{435b6226-1dcc-43b3-887e-217dbaa27ba3}
+[2026/02/03] (02:25:18.243) [WifiAutoInstallDriver]-> LOG Event: 0, RETURN UpdateDriverForPlugAndPlayDevices.
+[2026/02/03] (02:25:18.243) [WifiAutoInstallDriver]-> LOG Event: 1, Installation was successful.
+[2026/02/03] (02:25:18.249) [WifiAutoInstallSrv]-> DBT_DEVICEARRIVAL  dbcc_name=\\?\{5d624f94-8850-40c3-a3fa-a4fd2080baf3}#vwifimp_wfd#6&dec4d11&0&11#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{30CF0B90-5C3F-450C-9B1B-6DE7C1E967D1}
+[2026/02/03] (02:25:18.250) [WifiAutoInstallSrv]-> DBT_DEVICEARRIVAL  dbcc_name=\\?\{5d624f94-8850-40c3-a3fa-a4fd2080baf3}#vwifimp_wfd#6&dec4d11&0&11#{cac88484-7515-4c03-82e6-71a87abac361}
+[2026/02/03] (02:25:18.251) [WifiAutoInstallSrv]-> DBT_DEVICEARRIVAL  dbcc_name=\\?\SWD#RADIO#{3DAFCFDC-6383-450D-9D4E-BC1C9DB8727C}#{a8804298-2d5f-42e3-9531-9c8c39eb29ce}
+[2026/02/03] (02:25:18.309) [WifiAutoInstallDriver]-> LOG Event: 0, Install completed
+[2026/02/03] (02:25:18.309) [WifiAutoInstallDriver]-> LOG Event: 1, RETURN: DriverPackageInstallW  (0x0)
+[2026/02/03] (02:25:18.309) [WifiAutoInstallDriver]-> SUCCESS: installed package Driver\Win10X64\netrtwlanu.inf.
+[2026/02/03] (02:27:06.681) [WifiAutoInstallSrv]-> DBT_DEVICEARRIVAL  dbcc_name=\\?\{5d624f94-8850-40c3-a3fa-a4fd2080baf3}#vwifimp_wfd#6&dec4d11&0&12#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{82D7EB16-EFC9-4BE0-B382-2AA6E8857BA1}
+[2026/02/03] (02:27:06.683) [WifiAutoInstallSrv]-> DBT_DEVICEARRIVAL  dbcc_name=\\?\{5d624f94-8850-40c3-a3fa-a4fd2080baf3}#vwifimp_wfd#6&dec4d11&0&12#{cac88484-7515-4c03-82e6-71a87abac361}
