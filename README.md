@@ -36,7 +36,7 @@ If you are paranoid you can check it in [VirusTotal](https://www.virustotal.com/
 
 *MD5*: 242869EA917B9755F010B434FCCB2EE5
 
-## RTL8812CU USB Dongle
+## RTL8212CU USB Dongle
 
 ![Wi-Fi Dongle](./images/wifi_dongle.png "RTL8212CU 802.11ac USB Wi-Fi dongle")
 
