@@ -13,7 +13,7 @@ If you run the installer you'll see:
 Click "Install" to install.
 
 If you run the installer again while it’s already installed, you’ll see:  
-![Overwrite?](./images/overwrite.png)
+![Overwrite?](./images/overwrite.PNG)
 
 Choose **Yes** if you want to reinstall.
 Choose **No** if you dont want to reinstall.
