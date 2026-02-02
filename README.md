@@ -2,7 +2,8 @@
 
 ## Realtek RTL8212CU 802.11ac USB Wi-Fi Driver for Windows
 
-- ⚡ **Single EXE installer** (*9.88 MB*), installs *82.06 MB*
+- ⚡ **Single EXE installer** (*9.88 MB*)s, installs *82.06 MB*
+- ⚡ Manual install using **.cat** files
 - 💻 **Supports** Windows 7, 8, 8.1, 10, and 11 (x86 & x64)
 - 📶 **Works with** *RTL8212CU* 802.11ac USB Wi-Fi adapters
 - ✅ **Just works** — plug in, run installer, get Wi-Fi
@@ -28,6 +29,8 @@ Choose **No** if you don't want to reinstall.
 If you are paranoid you can check it in [VirusTotal](https://www.virustotal.com/gui/file-analysis/MjQyODY5ZWE5MTdiOTc1NWYwMTBiNDM0ZmNjYjJlZTU6MTc3MDAyOTg2Nw==).
 
 Digital Driver Signer is **Microsoft Windows Hardware Compatibility Publisher**.
+
+If you want to install manually, go to Device Manager (or Win+R, devmgmt.msc, enter), right click the dongle, go to Drivers tab, Update Drivers, Browse drivers, open the compatible version (Windows 10 driver for Windows 11, Windows 8 x86 for Windows 8.1 x86), click Finish, done!
 
 ## Hashes
 
