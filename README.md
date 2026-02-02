@@ -27,6 +27,8 @@ Choose **No** if you don't want to reinstall.
 
 If you are paranoid you can check it in [VirusTotal](https://www.virustotal.com/gui/file-analysis/MjQyODY5ZWE5MTdiOTc1NWYwMTBiNDM0ZmNjYjJlZTU6MTc3MDAyOTg2Nw==).
 
+Digital Driver Signer is **Microsoft Windows Hardware Compatibility Publisher**.
+
 ## Hashes
 
 *SHA256*: 091FF20ECC58A964339FC3FE158076D4FF82151261291EB37A8CBB2773368CD3
