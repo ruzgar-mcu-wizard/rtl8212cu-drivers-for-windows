@@ -24,7 +24,7 @@ If you run the installer again while it’s already installed, you’ll see:
 Choose **Yes** if you want to reinstall.
 Choose **No** if you dont want to reinstall.
 
-[Download EXE](./rtl8812cu.exe)
+[Download EXE](./rtl8212cu.exe)
 
 If you are paranoid you can check it in [VirusTotal](https://www.virustotal.com/gui/file/5a028192e29395938c7be5c1ec3396f5dfe4c5a5d393ddee3b4b8e5b96f8bbbe).
 
