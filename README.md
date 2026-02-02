@@ -26,7 +26,7 @@ Choose **No** if you dont want to reinstall.
 
 [Download EXE](./rtl8212cu.exe)
 
-If you are paranoid you can check it in [VirusTotal](https://www.virustotal.com/gui/file/5a028192e29395938c7be5c1ec3396f5dfe4c5a5d393ddee3b4b8e5b96f8bbbe).
+If you are paranoid you can check it in [VirusTotal](https://www.virustotal.com/gui/file-analysis/MjQyODY5ZWE5MTdiOTc1NWYwMTBiNDM0ZmNjYjJlZTU6MTc3MDAyOTg2Nw==).
 
 ## Hashes
 
