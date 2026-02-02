@@ -8,8 +8,12 @@
 - ✅ Just works — plug, run, Wi-Fi
 - ❌ No maintenance, no updates, no nonsense
 
+If you run the installer you'll see:
+![Install](./images/install.png)
+Click "Install" to install.
+
 If you run the installer again while it’s already installed, you’ll see:  
-> “WifiAutoInstall is already setup! Overwrite it?” 
+![Overwrite?](./images/overwrite.png)
 
 Choose **Yes** if you want to reinstall.
 Choose **No** if you dont want to reinstall.
