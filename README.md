@@ -27,9 +27,16 @@ Choose **No** if you don't want to reinstall.
 
 [Download EXE](./rtl8812cu.exe)
 
-If you are paranoid you can check it in [VirusTotal](https://www.virustotal.com/gui/file/32d5194252fe20ce4ded077daa05f49340ff367526231e11c7ded7646d0df8f1/detection).
+### Antivirus False Positives
 
-Digital Driver Signer is **Microsoft Windows Hardware Compatibility Publisher**.
+Some antivirus engines may flag this installer due to:
+- Kernel-mode driver installation
+- SYSTEM-level privilege usage
+- Setup self-extracting behavior
+
+The driver is Microsoft **Microsoft Windows Hardware Compatibility Publisher** signed and sandbox analysis shows no malicious behavior.
+
+If you are paranoid you can check it in [VirusTotal](https://www.virustotal.com/gui/file/32d5194252fe20ce4ded077daa05f49340ff367526231e11c7ded7646d0df8f1/detection).
 
 ## Manual Installation
 
