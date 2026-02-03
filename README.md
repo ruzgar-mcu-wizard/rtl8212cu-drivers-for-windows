@@ -51,6 +51,26 @@ The manual install drivers are inside [**Here**](./Realtek/WifiAutoInstall).
 
 *For reference only*
 
+## Troubleshooting
+1. Device Not Detected
+  - Try **rebooting** your PC,
+  - Try a **different USB** port,
+  - Do **not** use hubs,
+  - Open **Device Manager**, check under **Network Adapters** and **Universal Serial Bus Controllers**
+
+2. Wi-Fi Not Working
+  - Try **rebooting** your PC,
+  - Use the **Back USB** ports (if you were using front USB ports and back is available),
+  - Try a **powered hub** (if you have one),
+
+3. Random Disconnects
+  - Try **rebooting** your PC,
+  - Go to **Device Manager** (or Win+R, devmgmt.msc, enter), Go to **Network Adapters**, **Find the dongle**, Right click, **Properties**, **Power Management** tab, **Uncheck Allow Windows to turn off this device to save power**, Reboot
+
+4. Still Broken?
+  - Go to [**Here**](./Realtek/WifiAutoInstall), run the **unins000.exe**, re-install driver.
+  - If that doesn't work, check the dongle's **VID and PID** (Hardware IDs) from Device Manager, **Network Adapters**, **Find the dongle**, Right click, **Properties**, **Details**, **Feature**, choose **Hardware IDs**, make sure its **USB\VID_0BDA&PID_C812** (or close like **USB\VID_0BDA&PID_C812&REV_0000**)
+
 ## Contact
 Questions, driver issues, or cursed Wi-Fi setups? Reach me at: **ruzgarefecelik67@gmail.com**
 
