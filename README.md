@@ -55,12 +55,12 @@ The manual install drivers are inside [**Here**](./Realtek/WifiAutoInstall).
 1. Device Not Detected
   - Try **rebooting** your PC,
   - Try a **different USB** port,
-  - Do **not** use hubs,
+  - Do **not** use hubs or extension cables,
   - Open **Device Manager**, check under **Network Adapters** and **Universal Serial Bus Controllers**
 
 2. Wi-Fi Not Working
   - Try **rebooting** your PC,
-  - Use the **Back USB** ports (if you were using front USB ports and back is available),
+  - Use the **Rear USB** ports (if you were using front USB ports and rear is available),
   - Try a **powered hub** (if you have one),
 
 3. Random Disconnects
