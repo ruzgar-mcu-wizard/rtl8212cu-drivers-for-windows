@@ -40,9 +40,25 @@ If you are paranoid you can check it in [VirusTotal](https://www.virustotal.com/
 
 You can check the Driver-Source-Code.zip here too: [VirusTotal](https://www.virustotal.com/gui/file-analysis/YTRhNjYzNTZjZDk4M2UwYTMyNDY2NDg5OWM4Yzk3Nzk6MTc3MDI2MTUxNA==)
 
+All driver files retain original Microsoft signatures.
+
 ## Manual Installation
 
-If you want to install **manually**, go to **Device Manager** (or Win+R, devmgmt.msc, enter), **right click the dongle**, go to **Drivers** tab, **Update Drivers**, **Browse drivers**, open the compatible version (**Windows 10 driver** for **Windows 11**, **Windows 8 x86 driver** for **Windows 8.1 x86**), click **Finish**, done!
+If you want to install **manually**:
+
+- Go to **Device Manager** (or Win+R, devmgmt.msc, enter),
+
+- **Right click the dongle**
+
+- Go to **Drivers** tab
+
+- **Update Drivers**
+
+- **Browse drivers**
+
+- Open the compatible version for your OS (**Windows 10 driver** for **Windows 11**, **Windows 8 x86 driver** for **Windows 8.1 x86**, dont forget to match **Architecture (x86 / x64)**)
+
+- Click **Finish**, done!
 
 The manual install drivers are [**Here**](./Realtek/WifiAutoInstall).
 
