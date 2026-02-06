@@ -25,7 +25,7 @@ Choose **Yes** if you want to reinstall.
 
 Choose **No** if you don't want to reinstall.
 
-[Download EXE](./rtl8812cu.exe)
+[Download Setup](./rtl8812cu.exe)
 
 ### Antivirus False Positives
 
