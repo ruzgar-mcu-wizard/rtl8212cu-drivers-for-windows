@@ -40,6 +40,20 @@ Choose **No** if you don't want to reinstall.
 
 [Download Setup](./rtl8812cu.exe)
 
+## How To Check Your Dongle
+
+- **Plug in** the dongle
+- Open **Device Manager** (Or **Win+R, devmgmt.msc, enter**)
+- **Right click** the device → **Properties** (Or **double left click**)
+- Go to **Details** tab
+- Select **Hardware IDs**
+
+The ID should be ONLY these:
+
+**USB\VID_0BDA&PID_C812**
+
+**USB\VID_0BDA&PID_C812&REV_0000**
+
 ## Antivirus False Positives
 
 Some antivirus engines may flag this installer due to:
