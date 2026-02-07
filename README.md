@@ -16,15 +16,15 @@
 
 ## Supported vs Unsupported Dongles (⚠ IMPORTANT)
 
-Chipset    Supported   Notes 
+Chipset......Support...Notes 
 
-RTL8812CU  ✅ Yes      This repo 
+RTL8812CU....✅ Yes....This repo 
 
-RTL8811CU  ❌ No       Different driver required 
+RTL8811CU....❌ No.....Different driver required 
 
-RTL8821CU  ❌ No       Different driver required 
+RTL8821CU....❌ No.....Different driver required 
 
-RTL8812AU  ❌ No       Different architecture 
+RTL8812AU....❌ No.....Different architecture 
 
 ## Why Does This Exist?
 Many RTL8812CU adapters ship without reliable Windows drivers or rely on outdated OEM packages. This repository provides a verified, clean, and easy-to-install driver bundle.
