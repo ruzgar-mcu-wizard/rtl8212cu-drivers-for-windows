@@ -22,6 +22,9 @@ If your adapter uses RTL8811CU / RTL8821CU / RTL8812AU etc., this will NOT work.
 
 ONLY known working devices are RTL8812CU.
 
+## Why Does This Exist?
+Many RTL8812CU adapters ship without reliable Windows drivers or rely on outdated OEM packages. This repository provides a verified, clean, and easy-to-install driver bundle.
+
 ## Installation
 
 If you run the installer you'll see:
