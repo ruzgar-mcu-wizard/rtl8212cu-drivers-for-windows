@@ -16,9 +16,9 @@
 
 ## Table of Contents
 - [Realtek RTL8812CU Driver](#realtek-rtl8812cu-80211ac-usb-wi-fi-driver-for-windows)
-- [Quick Install](#quickinstall)
+- [Quick Install](#quick-install)
 - [Supported vs Unsupported Dongles](#supported-vs-unsupported-dongles--important)
-- [Architecture](#archirtecture)
+- [Architecture](#architecture)
 - [Why Does This Exist?](#why-does-this-exist)
 - [Installation](#installation)
 - [Download](#download)
