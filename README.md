@@ -92,7 +92,7 @@ If you want to install **manually**:
 
 - Click **Finish**, done!
 
-The manual install drivers are [**Here**](./Realtek/WifiAutoInstall).
+The manual install drivers are [**Here**](./Realtek/WifiAutoInstall/Drivers).
 
 ## Setup Hashes
 
@@ -133,7 +133,7 @@ The manual install drivers are [**Here**](./Realtek/WifiAutoInstall).
   - Go to **Device Manager** (or Win+R, devmgmt.msc, enter), Go to **Network Adapters**, **Find the dongle**, Right click, **Properties**, **Power Management** tab, **Uncheck Allow Windows to turn off this device to save power**, Reboot
 
 4. Still Broken?
-  - Go to [**Here**](./Realtek/WifiAutoInstall), run the **unins000.exe**, re-install driver.
+  - Go to [**Here**](./Realtek/WifiAutoInstall), run the **unins000.exe**, re-install driver. (Or launch the setup while its installed.)
   - If that doesn't work, check the dongle's **VID and PID** (Hardware IDs) from Device Manager, **Network Adapters**, **Find the dongle**, Right click, **Properties**, **Details**, **Property**, choose **Hardware IDs**, make sure its **USB\VID_0BDA&PID_C812** (or close like **USB\VID_0BDA&PID_C812&REV_0000**)
 
 ## Contact
