@@ -22,11 +22,11 @@
 | RTL8811CU | ❌ No    | Requires different driver |
 | RTL8821CU | ❌ No    | Requires different driver |
 | RTL8822CU | ❌ No    | Requires different driver |
-| RTL8812AU | ❌ No    | Requires different driver |
+| RTL8812AU | ❌ No    | Different architecture    |
 | RTL8821AU | ❌ No    | Requires different driver |
 | RTL8822AU | ❌ No    | Requires different driver |
 | RTL8814AU | ❌ No    | Requires different driver |
-| RTL8812BU | ❌ No    | Requires different driver |
+| RTL8812BU | ❌ No    | Different architecture    |
 | RTL8821BU | ❌ No    | Requires different driver |
 | RTL8822BU | ❌ No    | Requires different driver |
 | RTL8852CU | ❌ No    | Requires different driver |
