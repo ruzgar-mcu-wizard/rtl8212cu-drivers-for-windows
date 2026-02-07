@@ -23,6 +23,9 @@
 | RTL8821CU | ❌ No    | Requires different driver |
 | RTL8812AU | ❌ No    | Different architecture    |
 
+## Architecture
+Do not forget that x64 is for 64-bit Windows installation,
+x86 is for 32-bit Windows installation.
 
 ## Why Does This Exist?
 Many RTL8812CU adapters ship without reliable Windows drivers or rely on outdated OEM packages. This repository provides a verified, clean, and easy-to-install driver bundle.
