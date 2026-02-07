@@ -14,6 +14,13 @@
 - 📆 Release Date: 18.10.2022
 - 📥 Source: Realtek OEM Package
 
+## Quick Install
+- Download rtl8812cu.exe
+- Plug dongle
+- Run installer
+- Reboot
+If it doesnt work, go to ## Troubleshooting
+
 ## Supported vs Unsupported Dongles (⚠ IMPORTANT)
 
 | Chipset   | Support   | Notes                     |
