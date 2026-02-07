@@ -20,7 +20,7 @@
 - Run installer
 - Reboot
 
-If it doesnt work, go to  [Troubleshooting](##Troubleshooting)
+If it doesnt work, go to  [Troubleshooting](## Troubleshooting)
 
 ## Supported vs Unsupported Dongles (⚠ IMPORTANT)
 
