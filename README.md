@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-View-blue.svg)](./LICENSE)
+c.[![License](https://img.shields.io/badge/License-View-blue.svg)](./LICENSE)
 
 ## Realtek RTL8812CU 802.11ac USB Wi-Fi Driver for Windows
 
@@ -18,9 +18,9 @@
 
 This driver ONLY supports RTL8812CU chipsets.  
 
-If your adapter uses RTL8811CU / RTL8821CU / RTL8812AU, this will NOT work.
+If your adapter uses RTL8811CU / RTL8821CU / RTL8812AU etc., this will NOT work.
 
-Only known working devices are ONLY RTL8812CU.
+ONLY known working devices are RTL8812CU.
 
 ## Installation
 
@@ -35,6 +35,8 @@ If you run the installer again while it’s already installed, you’ll see:
 Choose **Yes** if you want to reinstall.
 
 Choose **No** if you don't want to reinstall.
+
+### Download
 
 [Download Setup](./rtl8812cu.exe)
 
