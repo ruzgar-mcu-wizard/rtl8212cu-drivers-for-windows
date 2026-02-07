@@ -19,9 +19,12 @@
 | Chipset   | Support   | Notes                     |
 | --------- | --------- | ------------------------- |
 | RTL8812CU | ✅ Yes   | This repo                 |
+| RTL8812AU | ❌ No    | Different architecture    |
+| RTL8812BU | ❌ No    | Different architecture    |
+| RTL8811AU | ❌ No    | Requires different driver |
 | RTL8811CU | ❌ No    | Requires different driver |
 | RTL8821CU | ❌ No    | Requires different driver |
-| RTL8812AU | ❌ No    | Different architecture    |
+| RTL8814AU | ❌ No    | Requires different driver |
 | That Random Aliexpress Dongle | ❌ No | Who knows what it is |
 
 ## Architecture
